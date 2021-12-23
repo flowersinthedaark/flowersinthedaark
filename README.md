@@ -1,3 +1,1 @@
--Hi, I’m flowersinthedaark though I usually go by Daz
--I’m hoping to get into minecraft modding when I have the time
--Main coding experience is classes in middle school and making datapacks for the Origins mod so I'm not the most experienced
+-Hi, I’m flowersinthedaark though I usually go by Daz! I’m hoping to get into minecraft modding when I have the time but my main coding experience is classes in middle school and making datapacks for the Origins mod so I'm not the most experienced so far.
